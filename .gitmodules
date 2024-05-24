@@ -1,0 +1,6 @@
+[submodule "ECON"]
+	path = ECON
+	url = git@github.com:dolphin9/ECON.git
+[submodule "SMPLer-X"]
+	path = SMPLer-X
+	url = git@github.com:dolphin9/SMPLer-X.git
